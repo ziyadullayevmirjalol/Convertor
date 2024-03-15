@@ -11,7 +11,7 @@ public class Program
 {
     static async Task Main(string[] args)
     {
-        Console.WriteLine("Hello, World");
+        Console.WriteLine("Hello");
         TelegramBotClient client = new TelegramBotClient(Constants.TelegramBotToken);
         ConverterService converterService = new ConverterService();
         var telegramService = new TelegramService(client, converterService);
