@@ -1,6 +1,6 @@
 The program is a converter that operates through a Telegram bot and assists users in converting files. For example, if you have a file in PDF format and you want to convert it to WORD format, you can use our Telegram bot to accomplish this task. You specify the format of the file you have and the format you want to convert it to on the bot, and the bot will send you the ready file for download after specifying the conversion format. However, the bot has its limitations; it cannot convert videos or music files into images, or vice versa. Once you specify a format that can be converted into, the bot will process the file and provide it to you.
 
-Here are some examples of file conversions:
+Here are some examples of file conversions: 
 
     PDF => WORD
     PDF => HTML
